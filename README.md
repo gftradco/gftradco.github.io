@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to GFTradCo GitHub Page
+
+:: Anacas Steel Cryptocurrency - Fast and private, limited supply (only 21 million coins will ever be mined.)
 
 You can use the [editor on GitHub](https://github.com/gftradco/gftradco.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
